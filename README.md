@@ -2,6 +2,12 @@
 
 A full-stack task manager built with .NET 8 Web API and React TypeScript.
 
+## 📸 Project Preview
+
+![Project Screenshot](https://github.com/MrityunjayEE/appsian-home_assignment1/blob/main/Screenshot%20(811).png)
+![Project Screenshot](https://github.com/MrityunjayEE/appsian-home_assignment1/blob/main/Screenshot%20(812).png)
+![Project Screenshot](https://github.com/MrityunjayEE/appsian-home_assignment1/blob/main/Screenshot%20(813).png)
+
 ## Features
 
 - ✅ Display list of tasks
